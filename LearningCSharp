@@ -1,12 +1,12 @@
 using System;
 
-namespace Learning
+namespace LearningCSharp
 {
     class Program 
     {
         static void Main(struct[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World! Alteração...");
         }
     }
     
