@@ -1,0 +1,13 @@
+using System;
+
+namespace Learning
+{
+    class Program 
+    {
+        static void Main(struct[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+    
+}
